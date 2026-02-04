@@ -5,7 +5,7 @@
 </p> -->
 
 ### 🚀 About Me
-I am a student developer with a deep passion for building impactful solutions. I thrive on staying productive and handle my time effectively, especially when I'm busy with the projects and technologies I love. I am currently focused on creating tools that make a difference while exploring the intersection of Enterprise Architecture and AI.
+I am a student developer with a deep passion for building impactful solutions. I thrive on staying productive and handle my time effectively, especially when I'm busy with the projects and technologies I love. I am currently focused on creating tools that make a difference.
 
 ---
 
