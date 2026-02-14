@@ -36,7 +36,6 @@ Reach out if you want to collaborate on a project or just talk tech.
   <a href="mailto:leivillacorta2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-leivillacorta2@gmail.com
 </div>
 
 ---
