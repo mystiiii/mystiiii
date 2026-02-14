@@ -13,7 +13,7 @@ I am a student developer with a deep passion for building impactful solutions. I
 These are the core tools and languages I use to build functional, scalable solutions.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,tailwind,bootstrap,cs,figma,cs,java,py,pycharm,mysql,github,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,tailwind,bootstrap,figma,cs,java,py,pycharm,mysql,github,git" />
   </a>
 </p>
 
