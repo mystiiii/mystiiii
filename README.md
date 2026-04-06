@@ -1,4 +1,4 @@
-# Hi there! I'm Lei Villacorta 👋
+# Hi there! I'm Lei Villacorta 
 
 <!-- <p align="center">
   <img src="[PLACEHOLDER]" alt="Lei's Github Header" />
